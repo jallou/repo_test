@@ -24,7 +24,8 @@
 				}
 				
 			</style>
-		</head>
+<!This is a random comment I added to test my git -->
+	</head>
 		<body style="margin:0; padding:0;">
 				<!--This my nav Bar-->
 				<nav class="navbar navbar-inverse navbar-fixed-top">
